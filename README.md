@@ -1,17 +1,78 @@
-# My GitHub contributions as a Game of Life
+<!-- 🌊 HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey%20there!&fontSize=40&fontAlignY=35"/>
+</p>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/Gauth777.gif?z=6)](https://github4life.herokuapp.com/Gauth777)
+<h1 align="center">⚡ Gautham — where code learns to breathe</h1>
 
-(Be sure to click on it for the infinite scrolling version.)
+<p align="center">
+  <i>cut down the stem, and the roots learn to rise.</i>
+</p>
 
-### What's this?
+<!-- 🌐 SOCIALS -->
+<p align="center">
+  <!-- Update these hrefs with your actual links -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/naman.drawzzz">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL-HERE@gmail.com">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Email"/>
+  </a>
+</p>
 
-This takes my GitHub contribution graph and uses it as the initial state for [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a popular cellular automaton that is often built by beginning software developers as an easy-to-implement but interesting piece of software.
+---
 
-Conway's Game of Life only defines two initial states for cells, but there are [multi-color variants](https://conwaylife.com/ref/mniemiec/color.htm).  This is a variant of "Quad Life" (chosen because the GitHub contribution graph has four colors that represent the intensity of contributions for a given day): in the typical Game of Life rules, a graph with a lot of contribution would die out in the first iteration (because the cells would be overcrowded), which seems to punish those with a lot of contributions, giving them a boring Game of Life.  Intead, this variant "decays" the level of contribution, so cells will fade away instead of dying immediately.
+## 👤 A Little Bit About Me
 
-### How does it work?
+```yaml
+name: Gautham (Naman)
+role: Full Stack Developer in the making
+located_in: Chennai, India
 
-This uses a JavaScript library called [contributions](https://npmjs.com/contributions) to create a data structure with a GitHub contribution graph, and uses that as the initial state for another JavaScript library called [dat-life](http://npmjs.com/dat-life).
+education:
+  - B.Tech in Computer Science, SRM-IST
+  - Self-taught Web Dev, Cybersecurity & AI/ML explorer
 
-A simple Node.js application called [github4life](https://github.com/ethomson/github4life) -- so named because it takes a _GitHub_ contribution graph and turns it into a _4_ color Game of _Life_ -- renders this as an animated GIF.  When talking to GitHub's image caching service (camo) it will render 20 frames and then stop (so that the resulting image can actually be cached) but when you hit it with your web browser, it will render the game of life on-demand - infinitely continuing to deliver you the next state as a new frame in the GIF, forever.
+fields_of_interest:
+  - Web Development
+  - Cybersecurity
+  - AI / Generative Models
+  - System Design
+  - UI / UX
+  - Hackathon Engineering
+
+projects_building:
+  - ForgeryShield (Deepfake & forgery detection)
+  - ZoneZero (Disaster readiness platform)
+  - Distrax (Circuit AR + focus productivity tool)
+
+currently_learning:
+  - Next.js
+  - FastAPI
+  - Spring Boot
+  - DSA
+  - AI/ML foundations
+
+goals_2025:
+  - Build 2–3 polished, demo-ready products
+  - Maintain a meaningful GitHub streak
+  - Land a strong full stack / backend internship
+
+hobbies:
+  - Sketching & visual art
+  - Poetry & shayari
+  - Cybersecurity labs
+  - Web & UI experiments
+
+🛠️ Tools, Languages & Tech
+💻 Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> </p>
+🧩 Frameworks & Libraries
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/> </p>
+🗄️ Databases
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/> </p>
+🛡️ Tools & Other Stuff
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="35" alt="Wireshark"/> </p>
