@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey%20there!&fontSize=40&fontAlignY=35"/>
 </p>
 
-<h1 align="center">⚡ Gautham — where code learns to breathe</h1>
+<h1 align="center">⚡ Naman . ⚡</h1>
 
 <p align="center">
-  <i>cut down the stem, and the roots learn to rise.</i>
+  <i>cut me down and the roots learn to rise</i>
 </p>
 
 <!-- 🌐 SOCIALS -->
