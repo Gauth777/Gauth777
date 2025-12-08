@@ -56,15 +56,13 @@ currently_learning:
   - DSA
   - AI/ML foundations
 
-goals_2025:
+goals_2026:
   - Build 2–3 polished, demo-ready products
-  - Maintain a meaningful GitHub streak
-  - Land a strong full stack / backend internship
+  - Land a strong internship
 
 hobbies:
   - Sketching & visual art
   - Poetry & shayari
-  - Cybersecurity labs
   - Web & UI experiments
 ```
 
