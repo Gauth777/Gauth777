@@ -100,3 +100,14 @@ hobbies:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
+## 📈 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Gauth777&theme=tokyonight&hide_border=true" 
+    alt="Gauth777's streak"
+  />
+</p>
+
+
+
