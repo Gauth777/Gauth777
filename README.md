@@ -12,11 +12,11 @@
 <!-- 🌐 SOCIALS -->
 <p align="center">
   <!-- Update these hrefs with your actual links -->
-  <a href="(https://www.linkedin.com/in/naman-8b35ba334/)">
+  <a href="https://www.linkedin.com/in/naman-8b35ba334/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
   </a>
   <a href="
-(https://www.instagram.com/pencil_sorcery/)
+https://www.instagram.com/pencil_sorcery/
 ">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
   </a>
