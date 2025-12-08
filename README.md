@@ -104,8 +104,7 @@ hobbies:
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Gauth777&theme=tokyonight&hide_border=true" 
-    alt="Gauth777's streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Gauth777&theme=tokyonight&hide_border=true"
   />
 </p>
 
