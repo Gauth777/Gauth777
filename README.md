@@ -100,11 +100,16 @@ hobbies:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
-## 📈 GitHub Streak
+
+## 📊 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauth777&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauth777&theme=discord_old_blurple" 
+    alt="Gauth777 Profile Summary Card"
+  />
 </p>
+
 
 
 
