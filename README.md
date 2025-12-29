@@ -47,7 +47,7 @@ fields_of_interest:
 projects_building:
   - ForgeryShield (Deepfake & forgery detection)
   - ZoneZero (Disaster readiness platform)
-  - Distrax (Circuit AR + focus productivity tool)
+  - SkillSwap ( a skill exchange platform )
 
 currently_learning:
   - Next.js
